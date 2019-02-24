@@ -1,4 +1,4 @@
-A full Create-Read-Update-Delete (CRUD) application that holds a functioning database of users and a Connect 4 game
+A full Create-Read-Update-Delete (CRUD) Android application that holds a functioning database of users and a Connect 4 game
 
 Author: Hannah Seccia
 Date of Creation: November 19, 2018
